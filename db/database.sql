@@ -1,3 +1,5 @@
+-- Comandos para crear base de datos en mysql
+
 -- cmd
 -- C:\Program Files\MySQL\MySQL Server 8.0\bin>mysql -u root -p
 -- Enter password: 123456789
